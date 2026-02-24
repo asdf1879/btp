@@ -1,0 +1,15 @@
+total_runs=50
+successful_runs_with_perf=50
+total_lost_packets_reported=0
+duration_s:
+  mean=5.005087
+  median=5.005076
+  p90=5.005131
+  p95=5.005180
+  p99=5.005389
+throughput_pps:
+  mean=799.186800
+  median=799.190000
+  p90=799.191000
+  p95=799.200000
+  p99=799.200000

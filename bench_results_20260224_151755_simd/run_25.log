@@ -1,0 +1,23 @@
+EAL: Detected CPU lcores: 32
+EAL: Detected NUMA nodes: 2
+EAL: Detected shared linkage of DPDK
+EAL: Multi-process socket /var/run/dpdk/rte/mp_socket
+EAL: Selected IOVA mode 'PA'
+EAL: VFIO support initialized
+EAL: Using IOMMU type 8 (No-IOMMU)
+Using DPDK port_id=0 name=0000:03:00.0
+Using mempool size=16383
+Local port MAC: a0:36:9f:28:f9:70
+Sender target=4000, lockstep chunk=8
+Sender MAC: a0:36:9f:28:f9:70
+Peer MAC: a0:36:9f:2a:5d:28
+[TX-TTL] reply seq=0 ttl=63
+[TX-TTL] reply seq=1 ttl=63
+[TX-TTL] reply seq=2 ttl=63
+[TX-TTL] reply seq=3 ttl=63
+[TX-TTL] reply seq=4 ttl=63
+[TX-TTL] reply seq=5 ttl=63
+[TX-TTL] reply seq=6 ttl=63
+[TX-TTL] reply seq=7 ttl=63
+Completed: sent=4000/4000 received=4000/4000 lost=0
+Perf: first_tx_tsc=9073071228136284 last_rx_tsc=9073084241166936 duration=5.005012 s throughput=799.20 pps
